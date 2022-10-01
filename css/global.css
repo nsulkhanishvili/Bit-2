@@ -101,6 +101,7 @@ body .conteiner .main-div .image-container {
   height: 302px;
   border-radius: 8px;
   margin-bottom: 24px;
+  overflow: hidden;
 }
 body .conteiner .main-div .image-container .image-first {
   width: 100%;
